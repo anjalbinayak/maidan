@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Bug Report
+    url: https://github.com/anjalbinayak/maidan/issues
+    about: Report a bug on Github
+  - name: Feature Request
+    url: https://github.com/anjalbinayak/maidan/issues
+    about: Creat a feature request on Github
+  - name: Ask a Question
+    url: https://twitter.com/anjalbinayak/
+    about: I will reply within 24 hours
